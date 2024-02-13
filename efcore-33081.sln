@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "efcore33081", "efcore-33081\efcore-33081.csproj", "{2B262BDC-C9CE-4D5F-8E6D-82196D89FEFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B262BDC-C9CE-4D5F-8E6D-82196D89FEFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B262BDC-C9CE-4D5F-8E6D-82196D89FEFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B262BDC-C9CE-4D5F-8E6D-82196D89FEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B262BDC-C9CE-4D5F-8E6D-82196D89FEFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
